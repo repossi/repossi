@@ -97,7 +97,7 @@ virtualizados donde se realizarán los ejercicios:
 -   Red externa (193.147.87.0 ... 193.147.87.255): máquina **fuera**
     (eth0) + interfaz eth2 de **firewall3**
 
-![image](dmz-vpn)
+![dmz-vpn.png](dmz-vpn.png)
 
 1.  PREVIO 1: Loguearse en las máquinas
 

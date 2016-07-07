@@ -51,7 +51,7 @@
 
 ## Máquinas virtuales y redes creadas
 
-![doble-firewall.png](doble-firewall)
+![doble-firewall.png](doble-firewall.png)
 
 * Redes donde se realizarán los ejercicios:
 
